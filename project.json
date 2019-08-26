@@ -1,0 +1,18 @@
+{
+  "catagory": [
+    { "id": 1, "title": "Mens"},
+    { "id": 2, "title": "Womens"},
+    { "id": 3, "title": "Kids"}
+  ],
+  "brands": [
+    { "id": 1, "title": "Nike"},
+    { "id": 2, "title": "Puma"},
+    { "id": 3, "title": "Adidas"}
+  ],
+    "products": [
+    { "id": 1, "title": "Product 1", "price": 1000, "imgpath": Image1.jpg},
+    { "id": 2, "title": "Product 2", "price": 2000, "imgpath": Image2.jpg},
+    { "id": 3, "title": "Product 3", "price": 3000, "imgpath": Image3.jpg}
+  ]
+ 
+}
